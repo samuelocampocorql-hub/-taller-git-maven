@@ -14,7 +14,7 @@ public class Main {
 
         sc.close();
 
-
+        System.out.println("Hasta luego, "+ nombre);
     }
 
     }
