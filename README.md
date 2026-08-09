@@ -8,3 +8,8 @@ Aprendizajes:
 
 1. Push
 2. Cambio de branch
+
+Comando aplicados:
+1. Pull
+2. remote
+3. restore
